@@ -22,7 +22,19 @@
 
 <img width="1920" height="1062" alt="image" src="https://github.com/user-attachments/assets/0de049d5-4f66-40ac-bab6-456102f4366e" />
 
+#### Trang 1. Giới thiệu bản thân
+Tạo 1 page với tiêu đề:
+Giới thiệu bản thân
+
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/4e909846-773e-42d6-859e-cc556758d763" />
+
+<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/aa786582-cbf1-4915-bdce-c19676ec0d39" />
+#### Trang 2. 
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/7c7caf59-a85f-4b30-a7e4-e47779940d7e" />
+<img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/c03e3721-5e21-4e98-9908-9e308b5fb7cb" />
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/252f9ae7-3bce-4a6c-8fc7-130f77de86d6" />
+
+
 
 ## Cấu hình N8N
 
