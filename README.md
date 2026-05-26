@@ -96,3 +96,4 @@ Setting -> Usage and Plan -> Enter activation key -> Paste key -> activate
 <img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/d535b6ac-ea21-417c-8b11-3527e64026db" />
 
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/1ffa95a5-59ac-4ad3-badc-85575502aa47" />
+<img width="1917" height="1073" alt="image" src="https://github.com/user-attachments/assets/8ffd241a-2964-4489-9b18-405938edd0cd" />
