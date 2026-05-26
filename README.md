@@ -37,6 +37,61 @@ Giới thiệu bản thân
 
 
 ## Cấu hình N8N
+### Bước 1 Tạo tài khoản và Activate License
+Tạo tài khoản admin:
+- Truy cập: https://n8n.phuonganhnguyet.id.vn
+- Điền đủ thông tin
 
 <img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/7f76aa5b-728e-4bf3-b13d-42ea6031f19f" />
 
+- Chọn Send me a License key -> điền thông tin -> Submit
+- Tạo tài khoản thành công
+  
+<img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/9e544153-1b3b-4a0f-81b5-fce9b0618de3" />
+
+- Kiểm tra email để lấy License Key
+  
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/9c792d36-4ef3-45de-a9eb-b194569fd447" />
+
+#### Activate License:
+Setting -> Usage and Plan -> Enter activation key -> Paste key -> activate
+
+✅ Thông báo thành công: "Your Registered Community Edition has been successfully activated."
+
+<img width="1902" height="989" alt="image" src="https://github.com/user-attachments/assets/13501297-bcd8-4d9c-bbc8-166c82c0280b" />
+
+### Bước 2 Tạo Telegram Bot
+
+- Mở Telegram → tìm kiếm @BotFather → bắt đầu chat
+- Gõ lệnh /newbot
+- Đặt tên bot (vd: Bot_Wordpress)
+- Đặt username bot (phải kết thúc bằng bot, vd: anhnguyet_wp_bot)
+- Copy Token được cấp (dạng: 1234567890:AAxxxxxxxxxxxxxx)
+
+<img width="1470" height="960" alt="image" src="https://github.com/user-attachments/assets/c61cf07c-52e5-44c3-ad2e-54978e7d7300" />
+
+- Bot vừa tạo
+  
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/ade55642-da30-4e84-a88a-3c02b7679454" />
+<img width="1915" height="884" alt="image" src="https://github.com/user-attachments/assets/e8537bb3-cec2-45a3-94d2-268cdbe4231e" />
+
+### Bước 3 – Lấy DeepSeek API Key
+- Truy cập https://platform.deepseek.com
+- Đăng nhập / Đăng ký tài khoản
+- Vào API Keys → Create new API key
+- Copy API Key (chỉ hiển thị một lần)
+
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/0ce37b8d-ef46-46d8-b243-08875c6031dd" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/5b50d256-355b-44b0-82a4-79e9e79c7dc3" />
+<img width="1920" height="798" alt="image" src="https://github.com/user-attachments/assets/4e0af51a-e1f5-4282-b6ca-c94c2028ab7e" />
+
+# 
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/46966031-5505-46b0-95dd-cf0bcf01be45" />
+
+
+<img width="1920" height="859" alt="image" src="https://github.com/user-attachments/assets/19c97af3-c782-49bc-a0a4-6230e7d302a8" />
+
+
+<img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/d535b6ac-ea21-417c-8b11-3527e64026db" />
+
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/1ffa95a5-59ac-4ad3-badc-85575502aa47" />
