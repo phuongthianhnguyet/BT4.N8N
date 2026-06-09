@@ -1,5 +1,12 @@
 # BT4.N8N
-
+## Khởi chạy tất cả services ở chế độ nền
+```
+docker compose up -d
+```
+## Kiểm tra trạng thái các service
+```
+docker compose ps
+```
 
 <img width="1898" height="330" alt="image" src="https://github.com/user-attachments/assets/315eac40-48b0-4cc9-ba54-9eb51ce5a5a6" />
 <img width="1900" height="671" alt="image" src="https://github.com/user-attachments/assets/9b6b46ff-9690-4a44-bdeb-7f96cfe81dbf" />
@@ -20,6 +27,18 @@
 
 ### 3. Tạo 2 bài viết thủ công trong WordPress
 
+Sau khi cài đặt WordPress thàng công, tiến hành tạo nội dung bằng cách sử dụng Custom HTML Block trong trình soạn thảo.
+Cách sử dụng Custom HTML Block:
+- Truy cập trang quản trị WordPress.
+- Chọn Post -> Add New Post để tạo post
+- Trong trình chỉnh sửa:
+  - Nhấn dấu "+"
+  - Tìm kiếm  Custom HTML
+  - Chọn block Custom HTML
+  - Nhập mã HTML trực tiếp vào block
+  - Có thể nhấn Preview để xem trước nội dung hiển thị
+  - Nhấn Publish để xuất bản
+    
 <img width="1920" height="1062" alt="image" src="https://github.com/user-attachments/assets/0de049d5-4f66-40ac-bab6-456102f4366e" />
 
 #### Trang 1. Giới thiệu bản thân
@@ -29,12 +48,12 @@ Giới thiệu bản thân
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/4e909846-773e-42d6-859e-cc556758d763" />
 
 <img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/aa786582-cbf1-4915-bdce-c19676ec0d39" />
-#### Trang 2. 
+
+#### Trang 2. Tạo bài viết giới thiệu về kiến thức em đã học được ở môn Phát triển ứng dụng với mã nguồn mở
+
 <img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/7c7caf59-a85f-4b30-a7e4-e47779940d7e" />
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/c03e3721-5e21-4e98-9908-9e308b5fb7cb" />
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/252f9ae7-3bce-4a6c-8fc7-130f77de86d6" />
-
-
 
 ## Cấu hình N8N
 ### Bước 1 Tạo tài khoản và Activate License
@@ -54,9 +73,10 @@ Tạo tài khoản admin:
 <img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/9c792d36-4ef3-45de-a9eb-b194569fd447" />
 
 #### Activate License:
+
 Setting -> Usage and Plan -> Enter activation key -> Paste key -> activate
 
-✅ Thông báo thành công: "Your Registered Community Edition has been successfully activated."
+Thông báo thành công: "Your Registered Community Edition has been successfully activated."
 
 <img width="1902" height="989" alt="image" src="https://github.com/user-attachments/assets/13501297-bcd8-4d9c-bbc8-166c82c0280b" />
 
@@ -75,22 +95,25 @@ Setting -> Usage and Plan -> Enter activation key -> Paste key -> activate
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/ade55642-da30-4e84-a88a-3c02b7679454" />
 <img width="1915" height="884" alt="image" src="https://github.com/user-attachments/assets/e8537bb3-cec2-45a3-94d2-268cdbe4231e" />
 
-### Bước 3 – Lấy DeepSeek API Key
-- Truy cập https://platform.deepseek.com
+### Bước 3 – Lấy API KEY
+- Truy cập https://aistudio.google.com => https://aistudio.google.com/api-keys
 - Đăng nhập / Đăng ký tài khoản
 - Vào API Keys → Create new API key
 - Copy API Key (chỉ hiển thị một lần)
 
 <img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/0ce37b8d-ef46-46d8-b243-08875c6031dd" />
-<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/5b50d256-355b-44b0-82a4-79e9e79c7dc3" />
-<img width="1920" height="798" alt="image" src="https://github.com/user-attachments/assets/4e0af51a-e1f5-4282-b6ca-c94c2028ab7e" />
-
-# 
-<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/46966031-5505-46b0-95dd-cf0bcf01be45" />
-<img width="1920" height="1076" alt="image" src="https://github.com/user-attachments/assets/b0200382-3b54-46a1-abc6-c1224000c10e" />
-
 
 <img width="1920" height="859" alt="image" src="https://github.com/user-attachments/assets/19c97af3-c782-49bc-a0a4-6230e7d302a8" />
+
+# haHA
+
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/5b50d256-355b-44b0-82a4-79e9e79c7dc3" />
+
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/46966031-5505-46b0-95dd-cf0bcf01be45" />
+
+
+
+
 
 
 <img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/d535b6ac-ea21-417c-8b11-3527e64026db" />
